@@ -1,0 +1,8 @@
+# О внесении изменения в статью 7 Закона Волгоградской области от 26 ноября 2018 г. № 123-ОД "О мерах по защите прав пострадавших участников строительства многоквартирных домов на территории Волгоградской области"
+Document type: Закон
+Number: 9-ОД
+Date signed: 2021-03-04
+Publication date: 2021-03-05
+Publication number: 3400202103050001
+Signing body: Волгоградская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/3400202103050001
