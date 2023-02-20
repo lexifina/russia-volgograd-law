@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Волгоградской области от 05 декабря 2022 г. № 122-ОД "Об областном бюджете на 2023 год и на плановый период 2024 и 2025 годов"
+Document type: Закон
+Number: 2-ОД
+Date signed: 2023-02-20
+Publication date: 2023-02-20
+Publication number: 3400202302200004
+Signing body: Волгоградская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/3400202302200004
