@@ -1,0 +1,11 @@
+{
+  "path": "ru-vgg",
+  "code": "RU-VGG",
+  "name": "Volgograd Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-volgograd-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
