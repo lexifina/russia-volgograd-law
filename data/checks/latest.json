@@ -1,0 +1,98 @@
+{
+ "generated": "2026-11-24T15:02:58Z",
+ "latest": {
+  "pravo-volgograd|russia/volgograd/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1627,
+    "current": 1619,
+    "gone": 0,
+    "held": 1619,
+    "newest_in_repo": "2026-10-26",
+    "pending": 8,
+    "repo": 1619,
+    "source_in_scope": 1627
+   },
+   "check_id": "ru-pravo-volgograd-20261124T150116Z",
+   "commits": {
+    "count": 3,
+    "from": "b0fb0560ae7618ad96541159f3ee61b2bf17d5ea",
+    "to": "06ca28759cce79d8b30420b4e53a2f8ee953a044"
+   },
+   "corpus": "russia/volgograd/acts",
+   "error": null,
+   "finished": "2026-11-24T15:02:58Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region34: 1627 law-type documents listed (every page read); 1619 held here; 8 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "3400202611180004",
+     "3400202611240002",
+     "3400202611240004",
+     "3400202611240005",
+     "3400202611240006",
+     "3400202611240007",
+     "3400202611240008",
+     "3400202611240010"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 12,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "3400202611180004",
+     "3400202611240002",
+     "3400202611240004",
+     "3400202611240005",
+     "3400202611240006",
+     "3400202611240007",
+     "3400202611240008",
+     "3400202611240010"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1627 law-type documents in block region34; newest published 2026-11-24",
+   "source": "pravo-volgograd",
+   "started": "2026-11-24T15:01:16Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 2,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 443,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
