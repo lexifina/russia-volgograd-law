@@ -1,6 +1,6 @@
 # Volgograd Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 21 versions, from 2026-01-15 (latest in force: 2026-10-26) · <http://publication.pravo.gov.ru/documents/block/region34>
+Законы 2026 · 23 versions, from 2026-01-15 (latest in force: 2026-11-24) · <http://publication.pravo.gov.ru/documents/block/region34>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -86,4 +86,12 @@
 | Закон № 81-ОД | [81-od.md](81-od.md) | 1 | 2026-09-30 |
 | Закон № 82-ОД | [82-od.md](82-od.md) | 1 | 2026-10-15 |
 | Закон № 83-ОД | [83-od.md](83-od.md) | 1 | 2026-10-26 |
+| Закон № 84-ОД | [84-od.md](84-od.md) | 1 | 2026-11-18 |
+| Закон № 85-ОД | [85-od.md](85-od.md) | 1 | 2026-11-24 |
+| Закон № 86-ОД | [86-od.md](86-od.md) | 1 | 2026-11-24 |
+| Закон № 87-ОД | [87-od.md](87-od.md) | 1 | 2026-11-24 |
+| Закон № 88-ОД | [88-od.md](88-od.md) | 1 | 2026-11-24 |
+| Закон № 89-ОД | [89-od.md](89-od.md) | 1 | 2026-11-24 |
 | Закон № 9-ОД | [9-od.md](9-od.md) | 1 | 2026-02-13 |
+| Закон № 90-ОД | [90-od.md](90-od.md) | 1 | 2026-11-24 |
+| Закон № 91-ОД | [91-od.md](91-od.md) | 1 | 2026-11-24 |
