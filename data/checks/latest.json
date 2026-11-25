@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T15:02:58Z",
+ "generated": "2026-11-25T07:03:45Z",
  "latest": {
   "pravo-volgograd|russia/volgograd/acts": {
    "attempt": 1,
@@ -13,38 +13,25 @@
    },
    "census": {
     "checked": 1627,
-    "current": 1619,
+    "current": 1627,
     "gone": 0,
-    "held": 1619,
-    "newest_in_repo": "2026-10-26",
-    "pending": 8,
-    "repo": 1619,
+    "held": 1627,
+    "newest_in_repo": "2026-11-24",
+    "pending": 0,
+    "repo": 1627,
     "source_in_scope": 1627
    },
-   "check_id": "ru-pravo-volgograd-20261124T150116Z",
-   "commits": {
-    "count": 3,
-    "from": "b0fb0560ae7618ad96541159f3ee61b2bf17d5ea",
-    "to": "06ca28759cce79d8b30420b4e53a2f8ee953a044"
-   },
+   "check_id": "ru-pravo-volgograd-20261125T065036Z",
+   "commits": null,
    "corpus": "russia/volgograd/acts",
    "error": null,
-   "finished": "2026-11-24T15:02:58Z",
+   "finished": "2026-11-25T06:51:37Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region34: 1627 law-type documents listed (every page read); 1619 held here; 8 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region34: 1627 law-type documents listed (every page read); 1627 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "3400202611180004",
-     "3400202611240002",
-     "3400202611240004",
-     "3400202611240005",
-     "3400202611240006",
-     "3400202611240007",
-     "3400202611240008",
-     "3400202611240010"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -52,35 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "3400202611180004",
-     "3400202611240002",
-     "3400202611240004",
-     "3400202611240005",
-     "3400202611240006",
-     "3400202611240007",
-     "3400202611240008",
-     "3400202611240010"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1627 law-type documents in block region34; newest published 2026-11-24",
    "source": "pravo-volgograd",
-   "started": "2026-11-24T15:01:16Z",
+   "started": "2026-11-25T06:50:36Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 2,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
