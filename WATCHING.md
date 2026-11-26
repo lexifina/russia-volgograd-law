@@ -6,6 +6,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Volgograd Oblast: Official Internet Portal of Legal Information (region34)](http://publication.pravo.gov.ru/documents/block/region34) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-25 06:50 UTC | watched |
+| [Volgograd Oblast: Official Internet Portal of Legal Information (region34)](http://publication.pravo.gov.ru/documents/block/region34) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-26 06:09 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
