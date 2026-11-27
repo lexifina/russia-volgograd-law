@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:21:01Z",
+ "generated": "2026-11-27T06:12:50Z",
  "latest": {
   "pravo-volgograd|russia/volgograd/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1627,
     "source_in_scope": 1627
    },
-   "check_id": "ru-pravo-volgograd-20261126T060908Z",
+   "check_id": "ru-pravo-volgograd-20261127T060156Z",
    "commits": null,
    "corpus": "russia/volgograd/acts",
    "error": null,
-   "finished": "2026-11-26T06:10:02Z",
+   "finished": "2026-11-27T06:02:38Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region34: 1627 law-type documents listed (every page read); 1627 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1627 law-type documents in block region34; newest published 2026-11-24",
    "source": "pravo-volgograd",
-   "started": "2026-11-26T06:09:08Z",
+   "started": "2026-11-27T06:01:56Z",
    "unexplained": 0,
    "update": {
     "parts": []
